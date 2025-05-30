@@ -1,5 +1,4 @@
-# Credit_card_cutomer_churn_prediction
-This project aims to predict whether a credit card customer will churn (i.e., stop using the service) using various machine learning techniques. Customer churn is a major challenge for the banking and financial sectors, and early identification of potential churners helps improve customer retention strategies.
+
 # 💳 Credit Card Customer Churn Prediction
 
 This project focuses on predicting customer churn for a bank's credit card services using machine learning techniques. Churn prediction is crucial for customer retention and profitability in the financial sector. By analyzing customer behavior and demographics, this project helps identify customers who are likely to leave the service.
